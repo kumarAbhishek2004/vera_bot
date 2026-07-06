@@ -1,3 +1,11 @@
+---
+title: Vera Bot
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+---
 # vera-bot — magicpin Vera AI Challenge Submission
 
 **Team:** Kumar Abhishek  
